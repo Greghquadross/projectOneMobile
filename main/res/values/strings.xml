@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProjetoOne</string>
+    <string name="login">Entrar</string>
+    <string name="createAccount">Cadastrar</string>
+    <string name="text_create_account">Cadastre-se</string>
+    <string name="title_CreateAccount">Cadastre-se</string>
+    <string name="logout">Deslogar</string>
+    <string name="loginTitle">Login</string>
+
+</resources>
